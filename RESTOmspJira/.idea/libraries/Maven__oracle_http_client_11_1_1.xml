@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: oracle:http_client:11.1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/oracle/http_client/11.1.1/http_client-11.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/oracle/http_client/11.1.1/http_client-11.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/oracle/http_client/11.1.1/http_client-11.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
